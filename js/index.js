@@ -2,7 +2,7 @@
 /* ------------  Settings  -------------- */
 /* -------------------------------------- */
 
-text = '495453204120524F424F5421';  // The message displayed
+text = '432765737420756E652066696C6C652021';  // The message displayed
 chars = 'ABCDEF1234567890';  // All possible Charactrers
 scale = 50;  // Font size and overall scale
 breaks = 0.003;  // Speed loss per frame
